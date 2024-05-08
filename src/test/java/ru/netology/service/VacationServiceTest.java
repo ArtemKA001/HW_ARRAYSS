@@ -8,7 +8,7 @@ public class VacationServiceTest {
 
     @Test
     public void SumTest() {
-        long[] sales = { 8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18 };
+        long[] sales = {8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18};
 
         StatsService service = new StatsService();
 
@@ -20,7 +20,7 @@ public class VacationServiceTest {
 
     @Test
     public void MinTest() {
-        long[] sales = { 8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18 };
+        long[] sales = {8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18};
 
         StatsService service = new StatsService();
 
@@ -44,7 +44,7 @@ public class VacationServiceTest {
 
     @Test
     public void AvgTest() {
-        long[] sales = { 8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18 };
+        long[] sales = {8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18};
 
         StatsService service = new StatsService();
 
@@ -55,7 +55,7 @@ public class VacationServiceTest {
 
     @Test
     public void LessTest() {
-        long[] sales = { 8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18 };
+        long[] sales = {8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18};
 
         StatsService service = new StatsService();
 
@@ -66,7 +66,7 @@ public class VacationServiceTest {
 
     @Test
     public void MoreTest() {
-        long[] sales = { 8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18 };
+        long[] sales = {8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18};
 
         StatsService service = new StatsService();
 
